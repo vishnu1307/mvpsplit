@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "mvpsplit-edb99-55822",
     "public": "public",
     "ignore": [
       "firebase.json",

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.anshyati.harshchandravanshi.live/">
     <img src="https://github.com/harsh0620/anshyati/blob/main/src/assets/images/anshyati-logo-white.png" alt="Logo"  height="80">
   </a>
@@ -157,4 +157,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br/>
 ![qrCode](https://github.com/harsh0620/anshyati/blob/main/src/assets/images/readme/qrCode.png)
 <br/>
-
+ -->
