@@ -287,7 +287,7 @@ const Settings = () => {
         </div>
         {/* RENDERING ADD FRIENDS CARD */}
         <div className="flex flex-col md:flex-row">
-          <div
+          {/* <div
             className="bg-white w-full mt-5 md:mr-2 rounded-lg 
       overflow-x-auto outlet shadow-lg sm:hover:drop-shadow-xl 
       border py-4 px-4  items-center"
@@ -332,9 +332,9 @@ const Settings = () => {
                 </a>
               </div>
             </Modal>
-          </div>
+          </div> */}
           {/* RENDERING FEEDBACK CARD */}
-          <div
+          {/* <div
             className="bg-white w-full mt-5 md:ml-2 rounded-lg 
       overflow-x-auto outlet shadow-lg sm:hover:drop-shadow-xl 
       border py-4 px-4  items-center"
@@ -363,7 +363,7 @@ const Settings = () => {
                 Contact Developer
               </div>
             </a>
-          </div>
+          </div> */}
         </div>
         {/* RENDERING LOGOUT CARD */}
         <div

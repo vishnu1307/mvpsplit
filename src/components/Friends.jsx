@@ -128,7 +128,7 @@ const Friends = () => {
           style={customStyles}
         >
           <ShareModal
-            URL={` https://www.anshyati.harshchandravanshi.live/dashboard/add-friend/${auth.currentUser.uid}`}
+            URL={` https://mvpsplitapp.netlify.app/dashboard/add-friend/${auth.currentUser.uid}`}
             TYPE="FRIEND"
           />
         </Modal>

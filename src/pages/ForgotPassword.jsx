@@ -1,7 +1,7 @@
 import { getAuth, sendPasswordResetEmail } from "firebase/auth";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Logo from "../assets/images/anshyati-logo-white.png";
+import Logo from "../assets/images/mvplogo.jpg";
 import ForgotPasswordImg from "../assets/svg/forgotpassword.svg";
 import { toast } from "react-toastify";
 import GoogleAuth from "../components/GoogleAuth";

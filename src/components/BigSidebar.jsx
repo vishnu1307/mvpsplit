@@ -1,7 +1,7 @@
 import React from "react";
 import { MdDashboard, MdOutlineDashboard } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
-import logo from "../assets/images/anshyati-logo-white.png";
+import logo from "../assets/images/mvplogo.jpg";
 import { sidebarItems } from "../utils/constants";
 const BigSidebar = () => {
   const navigate = useNavigate();
