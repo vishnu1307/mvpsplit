@@ -216,7 +216,7 @@ const GetExpenseInfo = () => {
             </div>
           </div>
           {/* RENDERING PRODUCT VISIBILITY */}
-          <div className="mt-1 mb-4 flex items-center justify-center sm:text-lg text-sm text-gray-600">
+          {/* <div className="mt-1 mb-4 flex items-center justify-center sm:text-lg text-sm text-gray-600">
             Powered by &nbsp;
             <span
               className="text-blue-400 font-semibold cursore-pointer"
@@ -224,7 +224,7 @@ const GetExpenseInfo = () => {
             >
               Anshyati
             </span>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
