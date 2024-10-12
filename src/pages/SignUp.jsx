@@ -10,7 +10,7 @@ import { serverTimestamp, setDoc, doc } from "firebase/firestore";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import GoogleAuth from "../components/GoogleAuth";
-import Logo from "../assets/images/anshyati-logo-white.png";
+import Logo from "../assets/images/mvplogo.jpg";
 import Login from "../assets/svg/login.svg";
 import BackButton from "../components/BackButton";
 import Loader from "../components/Loader";

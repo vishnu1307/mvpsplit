@@ -26,7 +26,7 @@ const AddExpense = () => {
   const navigate = useNavigate();
   let exactTotalValue = 0;
   const [loading, setLoading] = useState(false);
-  const [splitType, setSplitType] = useState("equal");
+  const [splitType] = useState("equal");
   const [groupInfo, setGroupInfo] = useState({});
   const [groupMembersInfo, setGroupMembersInfo] = useState([]);
   const [exactExpenseMember, setExactExpenseMember] = useState([]);
