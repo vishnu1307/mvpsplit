@@ -39,7 +39,7 @@ function App() {
             <Route index element={<Home />} />
 
             <Route path="expenses/*" element={<Expenses />} />
-            {/* <Route path="friends" element={<Friends />} /> */}
+            <Route path="friends" element={<Friends />} />
             <Route path="settings" element={<Settings />} />
             <Route path="add-friend/:userId" element={<AddFriend />} />
             <Route path="profile" element={<Profile />} />
